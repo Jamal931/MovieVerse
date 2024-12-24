@@ -73,3 +73,32 @@ API Endpoints
 *   `GET /api/movies?query={search_query}&page={page_number}`: Search for movies based on the `query` and the `page` to provide pagination support
 *   `GET /api/movies/:imdbID`: Fetch detailed movie information given the `imdbID`.
 
+-   `models/`: Contains database model definitions.
+-   `routes/`: Contains API routes definition.
+-   `public/`: Contains static files like HTML, CSS, and JavaScript for the frontend.
+-   `.env`: Contains environment variables (API keys).
+-   `server.js`: Main application file with the server setup.
+
+## Future Enhancements
+
+-   Implement a user authentication system.
+-   Allow users to create movie lists (favorites, watch later).
+-   Implement user movie ratings and reviews.
+-   Move front end logic to a more modern framework, such as React.
+-   Implement additional filters and sorting.
+-   Improve test suite.
+
+## Contributing
+
+Contributions are always welcome! If you have an idea, or would like to contribute to the project feel free to create a pull request.
+
+1.  Fork the repository.
+2.  Create a new branch for your feature (`git checkout -b feature/your-feature`).
+3.  Commit your changes (`git commit -m 'Add some feature'`).
+4.  Push to the branch (`git push origin feature/your-feature`).
+5.  Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
