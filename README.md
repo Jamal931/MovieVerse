@@ -53,7 +53,7 @@ MovieVerse is a full-stack web application that allows users to search, filter, 
     ```env
     MONGODB_URI="mongodb+srv://<your_user>:<your_password>@<your_cluster>/<your_database>?retryWrites=true&w=majority"
     PORT=3000
-    OMDB_API_KEY="YOUR_OMDB_API_KEY"
+    OMDB_API_KEY="851058c8"
     ```
 
   
