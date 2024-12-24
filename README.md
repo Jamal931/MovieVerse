@@ -1,3 +1,4 @@
+![Image 12-24-24 at 12 43 PM](https://github.com/user-attachments/assets/775b2911-bb3d-4c54-a438-a7445cea795d)
 # MovieVerse
 
 MovieVerse is a full-stack web application that allows users to search, filter, and view details about movies using data from the OMDb API. It provides a user-friendly interface to explore a vast collection of movies, save API calls, and provides additional functionalities such as trailers, random movies, and movie comparison.
