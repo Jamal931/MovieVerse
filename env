@@ -1,0 +1,3 @@
+OMDB_API_KEY=851058c8
+MONGODB_URI="mongodb+srv://<your_user>:<your_password>@<your_cluster>/<your_database>?retryWrites=true&w=majority"
+PORT=3000
