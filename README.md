@@ -36,10 +36,10 @@ MovieVerse is a full-stack web application that allows users to search, filter, 
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Jamal931/movieverse.git
+    git clone https://github.com/your-user-name/movieverse.git
     cd movieverse
     ```
-   (replace `https://github.com/Jamal931/movieverse.git` with your repository's URL)
+   (replace `https://github.com/your-user-name/movieverse.git` with your repository's URL)
 
 2.  **Install Dependencies:**
 
