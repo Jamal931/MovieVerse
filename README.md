@@ -80,14 +80,7 @@ API Endpoints
 -   `.env`: Contains environment variables (API keys).
 -   `server.js`: Main application file with the server setup.
 
-## Future Enhancements
 
--   Implement a user authentication system.
--   Allow users to create movie lists (favorites, watch later).
--   Implement user movie ratings and reviews.
--   Move front end logic to a more modern framework, such as React.
--   Implement additional filters and sorting.
--   Improve test suite.
 
 ## Contributing
 
